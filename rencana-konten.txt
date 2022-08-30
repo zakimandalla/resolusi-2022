@@ -6,3 +6,4 @@ RENCANA KONTEN
   *NN lain
 - opencv
 - mysql
+- fundamental analisis
