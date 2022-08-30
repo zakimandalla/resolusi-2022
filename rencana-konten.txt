@@ -1,0 +1,6 @@
+RENCANA KONTEN
+
+- python
+- pytorch
+- opencv
+- mysql
