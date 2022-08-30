@@ -1,0 +1,8 @@
+RENCANA KONTEN
+
+- python
+  *detail dasar-dasar
+- pytorch
+  *NN lain
+- opencv
+- mysql
