@@ -7,5 +7,6 @@ RENCANA KONTEN
 - opencv
 - mysql
 - fundamental analisis
+  *Saham
 - dapat kerja
   *AI Engineer
