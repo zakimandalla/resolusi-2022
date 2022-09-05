@@ -7,3 +7,4 @@ RENCANA KONTEN
 - opencv
 - mysql
 - fundamental analisis
+- dapat kerja
