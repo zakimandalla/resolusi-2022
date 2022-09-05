@@ -8,3 +8,4 @@ RENCANA KONTEN
 - mysql
 - fundamental analisis
 - dapat kerja
+  *Data Scientist
